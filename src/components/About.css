@@ -1,0 +1,32 @@
+.faqs{
+  
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+    width: 100%;
+    background-color: #162747;
+    color: whitesmoke;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+hr{
+  width: 90%;
+}
+.single_faq{
+  width: 80%;
+}
+.faq_title{
+  text-shadow: 2px 2px 20px rgba(0, 0, 0, 1);
+  display: flex;
+  padding-top:1rem ;
+}
+.faq_title h3{
+  margin: 0;
+  padding-top:3px ;
+  padding-left:1rem;
+  
+}
+.doc_icon{
+  font-size: 25px;
+}
